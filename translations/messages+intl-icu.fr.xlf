@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="5qOmYJG" resname="homepage.header.title">
+        <source>homepage.header.title</source>
+        <target>Gérez votre association en toute simplicité</target>
+      </trans-unit>
+      <trans-unit id="fQwmioJ" resname="auth.headertitle">
+        <source>auth.headertitle</source>
+        <target>__auth.headertitle</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
